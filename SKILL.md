@@ -1,10 +1,9 @@
 ---
 name: culture-through-behavior
-description: Transform organizational culture by changing what gets rewarded and punished,
-  not through messaging, speeches, or value statements.
+description: Transform organizational culture by changing what gets rewarded and punished, not through messaging, speeches, or value statements.
 license: MIT
 metadata:
-  version: 1.0.0
+  version: 1.0.1
   author: sethmblack
 keywords:
 - culture-through-behavior
