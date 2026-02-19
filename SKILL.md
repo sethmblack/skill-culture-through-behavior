@@ -3,8 +3,9 @@ name: culture-through-behavior
 description: Transform organizational culture by changing what gets rewarded and punished, not through messaging, speeches, or value statements.
 license: MIT
 metadata:
-  version: 1.0.1
+  version: 1.0.3744
   author: sethmblack
+repository: https://github.com/sethmblack/paks-skills
 keywords:
 - culture-through-behavior
 - transformation
